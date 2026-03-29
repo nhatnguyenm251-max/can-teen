@@ -30,7 +30,7 @@ Tai sao lam idea nay:
 - Explorer Link: https://stellar.expert/explorer/testnet/contract/CCK7QRGBOV2VZTCBX3NBPQIKJGO2OVT4KRQKKJPCY5LYGAADIUNBGXWP?filter=history
 
 Anh chup man hinh contract:
-<img width="1910" height="995" alt="image" src="Screenshot 2026-03-25 235345.png" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/43fa6419-4cda-483b-9a95-cfb077a9bfe1" />
 
 ## Future scopes
 - Them co che han muc nap credit theo hoc ky.
